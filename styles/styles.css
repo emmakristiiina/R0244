@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: orange;
+}
+p {
+  color: pink;
+  border: 2px solid powderblue;
+  padding: 30px;
+  margin: 50px
+}
+ul.a {
+	color: white;
+  list-style-type: circle;
+}
+
+ul.b {
+	color: white;
+  list-style-type: square;
+}
+
+ol.c {
+	color: white;
+  list-style-type: upper-roman;
+}
+
+ol.d {
+	color: white;
+  list-style-type: lower-alpha;
+}
